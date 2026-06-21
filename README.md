@@ -66,7 +66,7 @@ Desenvolvedora Java Full Stack em início de carreira
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:bealima.tech@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bealima.tech@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-bealima.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
