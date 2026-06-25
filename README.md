@@ -114,17 +114,15 @@ API REST para gerenciamento de clientes utilizando Spring Boot e PostgreSQL.
 # 🌎 Onde me encontrar
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/beatrizlima-tech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/beatrizlima-tech">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-    
-
-<a href="mailto:bealima.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-bealima.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bealima.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-bealima.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -132,15 +130,6 @@ API REST para gerenciamento de clientes utilizando Spring Boot e PostgreSQL.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=beatrizlima-tech&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizlima-tech&show_icons=true&theme=github_dark&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlima-tech&layout=compact&langs_count=8&theme=github_dark"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizlima-tech&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlima-tech&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
