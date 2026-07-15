@@ -1,135 +1,171 @@
 <p align="center">
-  <img src="git-banner.png" width="100%" />
+  <img src="git-banner.png" width="100%" alt="Banner do perfil de Beatriz Lima" />
 </p>
 
 <h1 align="center">Beatriz Lima</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Java Full Stack • Java • Spring Boot • Angular</strong>
+  <strong>Desenvolvedora Java Full Stack • Spring Boot • Angular • APIs REST</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beatrizlima-tech&label=Visualizações%20do%20perfil&color=7B3FE4&style=for-the-badge" />
+  <img
+    src="https://komarev.com/ghpvc/?username=beatrizlima-tech&label=Visualizações%20do%20perfil&color=7B3FE4&style=for-the-badge"
+    alt="Visualizações do perfil"
+  />
 </p>
 
 ---
 
 # 👩‍💻 Sobre mim
 
-🎓 Bacharela em Gestão da Tecnologia da Informação
+🎓 Bacharela em Gestão da Tecnologia da Informação.
 
-☕ Desenvolvedora Java Full Stack
+☕ Desenvolvedora Java Full Stack com foco em backend, APIs REST e aplicações desenvolvidas com Spring Boot.
 
-🚀 Apaixonada por desenvolvimento backend, APIs REST, arquitetura de software e aplicações web.
+🚀 Tenho experiência prática em projetos com arquitetura em camadas, regras de negócio, persistência de dados, autenticação, integração entre sistemas e testes automatizados.
 
-📚 Atualmente aprofundando conhecimentos em Spring Boot, Angular, Docker, Spring Security, RabbitMQ, MongoDB e Inteligência Artificial.
+📚 Atualmente aprofundando conhecimentos em Angular, Docker, Spring Security, RabbitMQ, MongoDB, microsserviços e Inteligência Artificial aplicada ao desenvolvimento.
 
-💡 Construindo projetos completos para evoluir continuamente como desenvolvedora.
+🎯 Em busca de oportunidades como Desenvolvedora Java Backend ou Full Stack.
+
+💡 Meu objetivo é construir soluções bem estruturadas, documentadas e alinhadas às práticas utilizadas no mercado.
 
 ---
 
-# 🛠️ Tecnologias
+# 🛠️ Tecnologias e ferramentas
+
+<h3 align="center">💻 Desenvolvimento</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,ts,js,html,css,postgres,mysql,mongodb,docker,maven,git,github,postman,vscode,idea"/>
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,ts,js,html,css,bootstrap,postgres,mysql,mongodb&perline=6"
+    alt="Tecnologias de desenvolvimento"
+  />
+</p>
+
+<h3 align="center">⚙️ Ferramentas e infraestrutura</h3>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,rabbitmq,maven,git,github,postman,idea,vscode&perline=8"
+    alt="Ferramentas e infraestrutura"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-Testes-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/MockMvc-Testes%20de%20API-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT-Autenticação-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 ---
 
 # 📚 Atualmente estudando
 
-* Spring Security
-* JWT
-* RabbitMQ
-* MongoDB
-* Docker
-* Arquitetura de Microsserviços
-* Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-# 🚧 Projeto Atual
-
-## 🍰 DoceGestão
-
-Sistema completo para gestão de confeitarias desenvolvido como principal projeto de portfólio.
-
-**Status:** 🚧 Em desenvolvimento
-
-🔗 Backend:
-https://github.com/beatrizlima-tech/DoceGestao-backend
-
-🔗 Frontend:
-https://github.com/beatrizlima-tech/DoceGestao-frontend
+- Spring Security
+- JWT
+- RabbitMQ
+- MongoDB
+- Docker
+- Arquitetura de Microsserviços
+- Testes automatizados
+- Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
 # ⭐ Projetos em destaque
 
-### 👤 API Usuários
+### 💰 API Finanças
 
-API REST desenvolvida com Spring Boot para cadastro e autenticação de usuários utilizando JWT, criptografia SHA-256 e PostgreSQL.
+API REST desenvolvida com Java e Spring Boot para gerenciamento de categorias, receitas e despesas.
 
-🔗 **[API Usuários](https://github.com/beatrizlima-tech/api-usuarios)**
+O projeto possui CRUD completo, consulta de movimentações por período, paginação, validações de negócio, tratamento de exceções, documentação com Swagger e testes automatizados com JUnit, MockMvc e H2.
+
+🔗 **[Acessar API Finanças](https://github.com/beatrizlima-tech/api-financas)**
 
 ---
 
-### 💰 Web Finanças
+### 🔐 API Usuários
 
-Frontend em Angular integrado à API de usuários com autenticação JWT.
+API REST desenvolvida com Java e Spring Boot para cadastro e autenticação de usuários.
 
-🔗 **[Web Finanças](https://github.com/beatrizlima-tech/web-financas)**
+O projeto inclui geração de token JWT, criptografia de senhas, validações de negócio, persistência com MySQL, documentação com Swagger e ambiente configurado com Docker Compose.
+
+🔗 **[Acessar API Usuários](https://github.com/beatrizlima-tech/usuarios-api)**
+
+---
+
+### 💻 Web Finanças
+
+Aplicação frontend desenvolvida com Angular para cadastro e autenticação de usuários.
+
+O projeto utiliza Reactive Forms, validações personalizadas, Bootstrap, HttpClient e integração com uma API REST desenvolvida em Spring Boot.
+
+🔗 **[Acessar Web Finanças](https://github.com/beatrizlima-tech/web-financas)**
 
 ---
 
 ### 📦 API Pedidos
 
-Microsserviço desenvolvido com Spring Boot, MongoDB e RabbitMQ para processamento assíncrono de pedidos.
+API desenvolvida com Java e Spring Boot para gerenciamento e processamento de pedidos.
 
-🔗 **[API Pedidos](https://github.com/beatrizlima-tech/api-pedidos)**
+O projeto utiliza MongoDB, RabbitMQ, processamento assíncrono, comunicação entre serviços e documentação com Swagger/OpenAPI.
 
----
-
-### 👥 API Clientes
-
-API REST para gerenciamento de clientes utilizando Spring Boot e PostgreSQL.
-
-🔗 **[API Clientes](https://github.com/beatrizlima-tech/api-clientes)**
+🔗 **[Acessar API Pedidos](https://github.com/beatrizlima-tech/api-pedidos)**
 
 ---
 
 # 📂 Outros projetos
 
-* 🔗 [Web Clientes](https://github.com/beatrizlima-tech/web-clientes)
-* 🔗 [API Produtos](https://github.com/beatrizlima-tech/produtos-api)
-* 🔗 [Web Produtos](https://github.com/beatrizlima-tech/web-produto)
-* 🔗 [Projeto CRUD](https://github.com/beatrizlima-tech/projetoCrud)
-* 🔗 [Projeto Agenda](https://github.com/beatrizlima-tech/projetoAgenda)
-* 🔗 [Sistema de Pedidos](https://github.com/beatrizlima-tech/sistemaDePedidos)
+- 🔗 [API Clientes](https://github.com/beatrizlima-tech/api-clientes)
+- 🔗 [Web Clientes](https://github.com/beatrizlima-tech/web-clientes)
+- 🔗 [API Produtos](https://github.com/beatrizlima-tech/produtos-api)
+- 🔗 [Web Produtos](https://github.com/beatrizlima-tech/web-produto)
+- 🔗 [Projeto CRUD](https://github.com/beatrizlima-tech/projetoCrud)
+- 🔗 [Projeto Agenda](https://github.com/beatrizlima-tech/projetoAgenda)
+- 🔗 [Sistema de Pedidos](https://github.com/beatrizlima-tech/sistemaDePedidos)
 
 ➡️ **[Ver todos os repositórios](https://github.com/beatrizlima-tech?tab=repositories)**
 
 ---
 
+
 # 🌎 Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatrizlima-tech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Beatriz%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn de Beatriz Lima"
+    />
   </a>
-</p>
 
-<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bealima.tech@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-bealima.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-bealima.tech%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Enviar e-mail para Beatriz Lima"
+    />
   </a>
 </p>
-
----
 
 # 📊 GitHub Stats
 
+<h3 align="center">💻 Linguagens mais utilizadas</h3>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizlima-tech&show_icons=true&theme=github_dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlima-tech&layout=compact&langs_count=8&theme=github_dark"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrizlima-tech&layout=compact&langs_count=10&theme=github_dark"
+    alt="Linguagens mais utilizadas por Beatriz Lima"
+  />
+</p>
+
+<h3 align="center">📈 Estatísticas do GitHub</h3>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=beatrizlima-tech&show_icons=true&theme=github_dark&include_all_commits=true"
+    alt="Estatísticas do GitHub de Beatriz Lima"
+  />
 </p>
