@@ -87,13 +87,13 @@ O projeto possui CRUD completo, consulta de movimentações por período, pagina
 
 ---
 
-### 🔐 API Usuários
+### 🔐 API Autenticação 
 
 API REST desenvolvida com Java e Spring Boot para cadastro e autenticação de usuários.
 
 O projeto inclui geração de token JWT, criptografia de senhas, validações de negócio, persistência com MySQL, documentação com Swagger e ambiente configurado com Docker Compose.
 
-🔗 **[Acessar API Usuários](https://github.com/beatrizlima-tech/usuarios-api)**
+🔗 **[Acessar API Autenticação](https://github.com/beatrizlima-tech/api-autenticacao)**
 
 ---
 
