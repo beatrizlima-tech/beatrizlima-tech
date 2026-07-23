@@ -19,17 +19,13 @@
 
 # 👩‍💻 Sobre mim
 
-🎓 Bacharela em Gestão da Tecnologia da Informação.
+🎓 Tecnóloga em Gestão da Tecnologia da Informação.
 
-☕ Desenvolvedora Java Full Stack com foco em backend, APIs REST e aplicações desenvolvidas com Spring Boot.
+🔐 Atualmente cursando o Certificado Profissional de Cibersegurança do Google.
 
-🚀 Tenho experiência prática em projetos com arquitetura em camadas, regras de negócio, persistência de dados, autenticação, integração entre sistemas e testes automatizados.
+☕ Desenvolvedora Java Full Stack com foco em back-end, APIs REST e aplicações desenvolvidas com Spring Boot.
 
-📚 Atualmente aprofundando conhecimentos em Angular, Docker, Spring Security, RabbitMQ, MongoDB, microsserviços e Inteligência Artificial aplicada ao desenvolvimento.
-
-🎯 Em busca de oportunidades como Desenvolvedora Java Backend ou Full Stack.
-
-💡 Meu objetivo é construir soluções bem estruturadas, documentadas e alinhadas às práticas utilizadas no mercado.
+🚀 Tenho vivência prática na construção de projetos com arquitetura em camadas, regras de negócio, persistência de dados, autenticação, integração entre sistemas e testes automatizados.
 
 ---
 
@@ -64,12 +60,13 @@
 
 # 📚 Atualmente estudando
 
+- Cibersegurança
 - Spring Security
 - JWT
 - RabbitMQ
 - MongoDB
 - Docker
-- Arquitetura de Microsserviços
+- Arquitetura de microsserviços
 - Testes automatizados
 - Inteligência Artificial aplicada ao desenvolvimento
 
