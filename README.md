@@ -103,6 +103,16 @@ Busco oportunidades de estágio e desenvolvimento de software Júnior, especialm
 
 [LinkedIn](https://www.linkedin.com/in/beatrizlima-tech) · [E-mail](mailto:bealima.tech@gmail.com) · [Todos os repositórios](https://github.com/beatrizlima-tech?tab=repositories)
 
+<details>
+<summary>📊 Estatísticas do GitHub</summary>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrizlima-tech&layout=compact&langs_count=10&theme=github_dark" alt="Linguagens mais utilizadas no GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api?username=beatrizlima-tech&show_icons=true&theme=github_dark&include_all_commits=true" alt="Estatísticas de atividade no GitHub" />
+</p>
+
+</details>
+
 </details>
 
 <p align="center">
